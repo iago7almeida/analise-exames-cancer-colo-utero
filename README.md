@@ -28,10 +28,10 @@ Os dados foram extraídos diretamente do **DATASUS (Tabnet)** utilizando scripts
 ## 📊 Principais Insights e Conclusões
 
 ### 1. Desigualdade Regional na Mortalidade
-Identificamos "Hotspots" de mortalidade nas regiões Norte e Nordeste. Estados como [Inserir Estado com maior taxa no seu gráfico] apresentam taxas significativamente superiores à média nacional.
+Identificamos "Hotspots" de mortalidade nas regiões Norte e Nordeste. Estados como Amazonas apresentam taxas significativamente superiores à média nacional.
 
 ### 2. O Gargalo da Vacinação (HPV)
-A análise revelou uma taxa de abandono vacinal preocupante. Em alguns estados, cerca de **XX%** (olhar seu gráfico) das meninas recebem a primeira dose, mas não retornam para a segunda, comprometendo a imunização.
+A análise revelou uma taxa de abandono vacinal preocupante. Em alguns estados, uma boa das meninas recebem a primeira dose, mas não retornam para a segunda, comprometendo a imunização, observado pela correlação positivtiva entre imunizações e óbitos.
 
 ### 3. Correlação Rastreio x Óbitos
 Observou-se uma tendência onde estados com menor histórico de cobertura de exames Papanicolau tendem a apresentar as maiores taxas de mortalidade, reforçando a importância da busca ativa por pacientes.
@@ -42,4 +42,4 @@ Os gráficos detalhados e o código da análise estão disponíveis no notebook 
 [**Acesse o Dashboard Interativo aqui**](LINK_LOOKER_STUDIO)
 
 ---
-*Autor: [Seu Nome]*
+*Autor: Iago Almeida*
