@@ -39,7 +39,7 @@ Observou-se uma tendência onde estados com menor histórico de cobertura de exa
 ## 📈 Visualizações
 Os gráficos detalhados e o código da análise estão disponíveis no notebook principal.
 
-[**Acesse o Dashboard Interativo aqui**](LINK_LOOKER_STUDIO)
+[**Acesse o Dashboard Interativo aqui**](https://lookerstudio.google.com/reporting/fb59fc99-fc3f-43c1-a9dd-cf25f47ed02f)
 
 ---
 *Autor: Iago Almeida*
