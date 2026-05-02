@@ -1,0 +1,35 @@
+# ==============================================================================
+# Análise de Dados - Câncer do Colo do Útero
+# Dependências do Projeto
+# ==============================================================================
+
+# --- Core ---
+pandas>=2.0.0
+numpy>=1.24.0
+
+# --- Visualização ---
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.18.0
+kaleido>=0.2.1          # Exportação de gráficos Plotly para PNG/PDF
+dash>=2.14.0            # Dashboard interativo
+
+# --- Parsing HTML ---
+lxml>=4.9.0
+html5lib>=1.1
+
+# --- Estatística & ML ---
+scipy>=1.10.0
+scikit-learn>=1.3.0
+statsmodels>=0.14.0
+
+# --- Web Scraping ---
+requests>=2.31.0
+urllib3>=2.0.0
+
+# --- Jupyter ---
+ipywidgets>=8.0.0
+nbformat>=5.9.0
+
+# --- Utilitários ---
+tqdm>=4.65.0            # Barras de progresso
